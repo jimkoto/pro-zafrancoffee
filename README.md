@@ -6,7 +6,7 @@ index.html, 404.html, robots.txt, sitemap.xml, _headers, assets/{css,js,img}
 
 ## Isi nomor WhatsApp admin (+62 821-2203-2171, semua file)
 ```
-sed -i 's/6282122032171/6282122032172/g' index.html assets/js/main.js
+sed -i 's/6282122032171/6282122032171/g' index.html assets/js/main.js
 ```
 (ganti +62 821-2203-2171 dengan nomor asli, format 6282122032171 tanpa + dan spasi)
 
